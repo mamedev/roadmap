@@ -56,8 +56,6 @@ src\mame\audio\vicdual.cpp **(coauthor) with Couriersud**
 
 src\mame\audio\videopin.cpp 
 
-src\mame\drivers\dai3wksi.cpp 
-
 Jarek Burczynski
 ================
 src\devices\sound\fm.cpp  **(coauthor) with Tatsuyuki Satoh**
@@ -254,10 +252,6 @@ Naibo Zhang
 ===========
 src\mame\drivers\gal3.cpp 
 
-Hau
-===
-src\mame\drivers\galastrm.cpp 
-
 Kenneth Lin
 ===========
 src\mame\drivers\jackal.cpp 
@@ -278,8 +272,11 @@ Eisuke Watanabe
 ===============
 src\mame\drivers\qdrmfgp.cpp 
 
+src\mame\drivers\galastrm.cpp 
+
 src\mame\drivers\tecmo16.cpp **(coauthor) with Nicola Salmoria**
 
+src\mame\drivers\dai3wksi.cpp 
 
 Oliver Bergmann
 ===============
