@@ -5,57 +5,6 @@ src\devices\bus\megadrive\svp.cpp **(coauthor) with Fabio Priuli,Pierpaolo Prazz
 src\devices\cpu\ssp1601\ssp1601.cpp **(coauthor) with Pierpaolo Prazzoli**
 
 
-Derrick Renaud
-==============
-src\devices\sound\flt_rc.cpp **(coauthor) with Couriersud**
-
-src\devices\sound\flt_vol.cpp **(coauthor) with Couriersud**
-
-src\emu\sound\filter.cpp **(coauthor) with Couriersud**
-
-
-src\mame\audio\atarifb.cpp 
-
-src\mame\audio\dragrace.cpp 
-
-src\mame\audio\galaga.cpp 
-
-src\mame\audio\m79amb.cpp 
-
-src\mame\audio\madalien.cpp 
-
-src\mame\audio\nitedrvr.cpp 
-
-src\mame\audio\norautp.cpp **(coauthor) with Roberto Fresca**
-
-src\mame\audio\orbit.cpp 
-
-src\mame\audio\phoenix.cpp **(coauthor) with Juergen Buchmueller**
-
-src\mame\audio\polepos.cpp 
-
-src\mame\audio\poolshrk.cpp 
-
-src\mame\audio\skydiver.cpp
-
-src\mame\audio\skyraid.cpp  
-
-src\mame\audio\spiders.cpp 
-
-src\mame\audio\sprint4.cpp 
-
-src\mame\audio\sprint8.cpp 
-
-src\mame\audio\starshp1.cpp
-
-src\mame\audio\subs.cpp  
-
-src\mame\audio\triplhnt.cpp
-
-src\mame\audio\vicdual.cpp **(coauthor) with Couriersud**
-
-src\mame\audio\videopin.cpp 
-
 Jarek Burczynski
 ================
 src\devices\sound\fm.cpp  **(coauthor) with Tatsuyuki Satoh**
@@ -237,10 +186,6 @@ src\mame\drivers\ultratnk.cpp **(coauthor) with Phil Stroffolino**
 src\mame\drivers\wolfpack.cpp 
 
 src\mame\video\tia.cpp **(coauthor) with Wilbert Pol**
-
-Per Ola Ingvarsson
-==================
-src\mame\drivers\compis.cpp **(coauthor) with Tomas Karlsson**
 
 Richard Davies
 ==============
