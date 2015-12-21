@@ -241,10 +241,6 @@ Edgardo E. Contini Salvan
 =========================
 src\mame\drivers\toypop.cpp 
 
-Yves
-====
-src\mame\drivers\vlc.cpp 
-
 Michael Soderstrom
 ==================
 src\mame\drivers\williams.cpp  **(coauthor) with Marc LaFontaine, Aaron Giles**
