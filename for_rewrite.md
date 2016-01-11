@@ -61,32 +61,6 @@ Peter J.C.Clare
 ===============
 src\mame\audio\carnival.cpp 
 
-Paul Leaman
-===========
-src\devices\sound\qsound.cpp **(coauthor)**
-
-src\mame\drivers\1942.cpp **(coauthor)**
-
-src\mame\drivers\1943.cpp 
-
-src\mame\drivers\battlane.cpp 
-
-src\mame\drivers\bionicc.cpp  **(coauthor) with Phil Stroffolino, Steven Frew**
-
-src\mame\drivers\blktiger.cpp 
-
-src\mame\drivers\cps1.cpp
-
-src\mame\drivers\cps2.cpp **(coauthor) with Andreas Naive, Nicola Salmoria**
-
-src\mame\drivers\gunsmoke.cpp 
-
-src\mame\drivers\lwings.cpp 
-
-src\mame\drivers\sidearms.cpp **(coauthor) with Curt Coder**
-
-src\mame\drivers\srumbler.cpp 
-
 
 insideoutboy
 ============
@@ -122,7 +96,6 @@ src\mame\audio\sprint2.cpp
 
 src\mame\audio\tank8.cpp 
 
-
 Paul Daniels, Colin Howell
 ==========================
 src\mame\drivers\apple1.cpp **(coauthors) with R.Belmont**
@@ -132,10 +105,6 @@ Patrick Lawrence
 src\mame\drivers\atarifb.cpp **(coauthor) with Mike Balfour, Brad Oliver**
 
 src\mame\drivers\ccastles.cpp  **(coauthor) wtih Aaron Giles**
-
-Steven Frew
-===========
-src\mame\drivers\bionicc.cpp  **(coauthor) with Phil Stroffolino, Paul Leaman**
 
 Ed Muller
 =========
