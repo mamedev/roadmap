@@ -110,52 +110,6 @@ Ed Muller
 =========
 src\mame\drivers\bking.cpp **(coauthor) with Mike Balfour, Zsolt Vasvari**
 
-Stefan Jokisch
-==============
-src\mame\drivers\boxer.cpp 
-
-src\mame\drivers\cball.cpp 
-
-src\mame\drivers\destroyr.cpp 
-
-src\mame\drivers\dragrace.cpp 
-
-src\mame\drivers\embargo.cpp
-
-src\mame\drivers\fgoal.cpp  
-
-src\mame\drivers\flyball.cpp 
-
-src\mame\drivers\liberatr.cpp 
-
-src\mame\drivers\mgolf.cpp 
-
-src\mame\drivers\orbit.cpp 
-
-src\mame\drivers\poolshrk.cpp 
-
-src\mame\drivers\skyraid.cpp 
-
-src\mame\drivers\sprint4.cpp 
-
-src\mame\drivers\sprint8.cpp 
-
-src\mame\drivers\sspeedr.cpp 
-
-src\mame\drivers\starshp1.cpp **(coauthor) with Frank Palazzolo**
-
-src\mame\drivers\tank8.cpp 
-
-src\mame\drivers\tourtabl.cpp 
-
-src\mame\drivers\triplhnt.cpp 
-
-src\mame\drivers\ultratnk.cpp **(coauthor) with Phil Stroffolino**
-
-src\mame\drivers\wolfpack.cpp 
-
-src\mame\video\tia.cpp **(coauthor) with Wilbert Pol**
-
 Richard Davies
 ==============
 src\mame\drivers\exedexes.cpp 
