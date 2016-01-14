@@ -158,11 +158,6 @@ src\mame\drivers\tecmo16.cpp **(coauthor) with Nicola Salmoria**
 src\mame\drivers\dai3wksi.cpp 
 
 
-Oliver Bergmann
-===============
-src\mame\drivers\raiden.cpp **(coauthor) with Bryan McPhail, Randy Mongenel**
-
-
 Steve Baines
 ============
 src\mame\drivers\starwars.cpp **(coauthor) with Frank Palazzolo**
