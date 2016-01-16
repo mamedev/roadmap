@@ -122,12 +122,6 @@ src\mame\drivers\exedexes.cpp
 
 src\mame\drivers\phoenix.cpp 
 
-
-Naibo Zhang
-===========
-src\mame\drivers\gal3.cpp 
-
-
 Kenneth Lin
 ===========
 src\mame\drivers\jackal.cpp 
