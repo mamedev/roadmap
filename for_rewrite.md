@@ -1,10 +1,3 @@
-Grazvydas Ignotas
-=================
-src\devices\bus\megadrive\svp.cpp **(coauthor) with Fabio Priuli,Pierpaolo Prazzoli**
-
-src\devices\cpu\ssp1601\ssp1601.cpp **(coauthor) with Pierpaolo Prazzoli**
-
-
 Jarek Burczynski
 ================
 src\devices\sound\fm.cpp **(coauthor) with Tatsuyuki Satoh**
