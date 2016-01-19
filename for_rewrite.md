@@ -94,9 +94,6 @@ Patrick Lawrence
 ================
 src\mame\drivers\atarifb.cpp **(coauthor) with Mike Balfour, Brad Oliver**
 
-src\mame\drivers\ccastles.cpp **(coauthor) wtih Aaron Giles**
-
-
 Ed Muller
 =========
 src\mame\drivers\bking.cpp **(coauthor) with Mike Balfour, Zsolt Vasvari**
