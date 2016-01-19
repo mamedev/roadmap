@@ -124,9 +124,6 @@ src\mame\drivers\popeye.cpp **(coauthor) with Couriersud**
 
 src\mame\drivers\tp84.cpp 
 
-src\mame\drivers\williams.cpp **(coauthor) with Michael Soderstrom, Aaron Giles**
-
-
 Eisuke Watanabe
 ===============
 src\mame\drivers\qdrmfgp.cpp 
@@ -153,11 +150,6 @@ src\mame\drivers\svi318.cpp **(coauthor) with Sean Young**
 Edgardo E. Contini Salvan
 =========================
 src\mame\drivers\toypop.cpp 
-
-
-Michael Soderstrom
-==================
-src\mame\drivers\williams.cpp **(coauthor) with Marc LaFontaine, Aaron Giles**
 
 
 Enrique Sanchez
