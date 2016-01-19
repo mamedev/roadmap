@@ -108,11 +108,6 @@ src\mame\drivers\exedexes.cpp
 
 src\mame\drivers\phoenix.cpp 
 
-Kenneth Lin
-===========
-src\mame\drivers\jackal.cpp 
-
-
 Paul Daniels
 ============
 src\mame\drivers\p2000t.cpp 
