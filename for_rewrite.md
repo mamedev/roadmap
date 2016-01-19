@@ -85,13 +85,6 @@ src\mame\audio\qix.cpp **(coauthors) with Aaron Giles**
 src\mame\drivers\qix.cpp **(coauthors) with Aaron Giles**
 
 
-Hans Andersson
-==============
-src\mame\audio\sprint2.cpp 
-
-src\mame\audio\tank8.cpp 
-
-
 Paul Daniels, Colin Howell
 ==========================
 src\mame\drivers\apple1.cpp **(coauthors) with R.Belmont**
