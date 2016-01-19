@@ -102,12 +102,6 @@ Paul Daniels
 ============
 src\mame\drivers\p2000t.cpp 
 
-Marc Lafontaine
-===============
-src\mame\drivers\popeye.cpp **(coauthor) with Couriersud**
-
-src\mame\drivers\tp84.cpp 
-
 Eisuke Watanabe
 ===============
 src\mame\drivers\qdrmfgp.cpp 
