@@ -78,13 +78,6 @@ src\mame\audio\polyplay.cpp
 src\mame\drivers\polyplay.cpp 
 
 
-John Butler, Ed Mueller
-=======================
-src\mame\audio\qix.cpp **(coauthors) with Aaron Giles**
-
-src\mame\drivers\qix.cpp **(coauthors) with Aaron Giles**
-
-
 Paul Daniels, Colin Howell
 ==========================
 src\mame\drivers\apple1.cpp **(coauthors) with R.Belmont**
@@ -108,7 +101,6 @@ src\mame\drivers\phoenix.cpp
 Paul Daniels
 ============
 src\mame\drivers\p2000t.cpp 
-
 
 Marc Lafontaine
 ===============
