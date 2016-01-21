@@ -60,8 +60,6 @@ src\mame\drivers\starwars.cpp **(coauthor) with Frank Palazzolo**
 
 Tomas Karlsson
 ==============
-src\mame\drivers\compis.cpp **(coauthor) with Per Ola Ingvarsson**
-
 src\mame\drivers\svi318.cpp **(coauthor) with Sean Young**
 
 
