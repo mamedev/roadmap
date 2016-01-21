@@ -115,16 +115,6 @@ src\mame\video\tecmo16.cpp  **(coauthor) with Nicola Salmoria**
 src\mame\drivers\dai3wksi.cpp 
 
 
-Steve Baines
-============
-
-src\mame\drivers\starwars.cpp 
-
-src\mame\includes\starwars.h 
-
-src\mame\machine\starwars.cpp  **(coauthor) with Frank Palazzolo**
-
-
 Tomas Karlsson
 ==============
 
