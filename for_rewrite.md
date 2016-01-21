@@ -71,13 +71,6 @@ src\mame\drivers\popper.cpp **(coauthor)**
 src\mame\drivers\sprcros2.cpp 
 
 
-Martin Buchholz
-===============
-src\mame\audio\polyplay.cpp
-
-src\mame\drivers\polyplay.cpp 
-
-
 Paul Daniels, Colin Howell
 ==========================
 src\mame\drivers\apple1.cpp **(coauthors) with R.Belmont**
