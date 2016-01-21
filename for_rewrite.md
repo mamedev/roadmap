@@ -47,17 +47,6 @@ src\mame\machine\apple1.cpp
 src\mame\video\apple1.cpp  **(coauthors) with R.Belmont**
 
 
-Patrick Lawrence
-================
-
-src\mame\drivers\atarifb.cpp 
-
-src\mame\includes\atarifb.h
-
-src\mame\machine\atarifb.cpp  
-
-src\mame\video\atarifb.cpp  **(coauthor) with Mike Balfour, Brad Oliver**
-
 Ed Muller
 =========
 src\mame\drivers\bking.cpp 
