@@ -1,5 +1,6 @@
 insideoutboy
 ============
+
 src\mame\audio\flower.cpp 
 
 src\mame\drivers\flower.cpp 
@@ -29,51 +30,27 @@ src\mame\includes\sprcros2.h
 src\mame\video\sprcros2.cpp 
 
 
+Colin Howell
+============
 
-Paul Daniels, Colin Howell
-==========================
+src\mame\drivers\apple1.cpp  **(coauthor) with Paul Daniels, R.Belmont**
 
-src\mame\drivers\apple1.cpp 
+src\mame\includes\apple1.h  **(coauthor) with Paul Daniels, R.Belmont**
 
-src\mame\includes\apple1.h 
+src\mame\machine\apple1.cpp  **(coauthor) with Paul Daniels, R.Belmont**
 
-src\mame\machine\apple1.cpp 
-
-src\mame\video\apple1.cpp  **(coauthors) with R.Belmont**
+src\mame\video\apple1.cpp  **(coauthor) with Paul Daniels, R.Belmont**
 
 
-Ed Muller
-=========
+Ed Mueller
+==========
+
 src\mame\drivers\bking.cpp 
 
 src\mame\includes\bking.h 
 
 src\mame\video\bking.cpp  **(coauthor) with Mike Balfour, Zsolt Vasvari**
 
-
-Richard Davies
-==============
-src\mame\drivers\exedexes.cpp 
-
-src\mame\includes\exedexes.h 
-
-src\mame\video\exedexes.cpp 
-
-src\mame\drivers\phoenix.cpp 
-
-src\mame\includes\phoenix.h 
-
-src\mame\video\phoenix.cpp 
-
-Paul Daniels
-============
-src\mame\drivers\p2000t.cpp 
-
-src\mame\includes\p2000t.h 
-
-src\mame\machine\p2000t.cpp 
-
-src\mame\video\p2000m.cpp 
 
 Eisuke Watanabe
 ===============
