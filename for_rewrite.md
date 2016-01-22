@@ -1,8 +1,3 @@
-Peter J.C.Clare
-===============
-src\mame\audio\carnival.cpp 
-
-
 insideoutboy
 ============
 src\mame\audio\flower.cpp 
