@@ -30,18 +30,6 @@ src\mame\includes\sprcros2.h
 src\mame\video\sprcros2.cpp 
 
 
-Colin Howell
-============
-
-src\mame\drivers\apple1.cpp  **(coauthor) with Paul Daniels, R.Belmont**
-
-src\mame\includes\apple1.h  **(coauthor) with Paul Daniels, R.Belmont**
-
-src\mame\machine\apple1.cpp  **(coauthor) with Paul Daniels, R.Belmont**
-
-src\mame\video\apple1.cpp  **(coauthor) with Paul Daniels, R.Belmont**
-
-
 Ed Mueller
 ==========
 
