@@ -29,17 +29,6 @@ src\mame\includes\sprcros2.h
 
 src\mame\video\sprcros2.cpp 
 
-
-Ed Mueller
-==========
-
-src\mame\drivers\bking.cpp 
-
-src\mame\includes\bking.h 
-
-src\mame\video\bking.cpp  **(coauthor) with Mike Balfour, Zsolt Vasvari**
-
-
 Tomas Karlsson
 ==============
 
