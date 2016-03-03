@@ -1,4 +1,5 @@
-insideoutboy
+insideoutboy 
+(demoted to skeletons)
 ============
 
 src\mame\audio\flower.cpp 
@@ -40,6 +41,7 @@ src\mame\machine\svi318.cpp  **(coauthor) with Sean Young**
 
 
 Edgardo E. Contini Salvan
+ (demoted to skeletons)
 =========================
 
 src\mame\drivers\toypop.cpp 
