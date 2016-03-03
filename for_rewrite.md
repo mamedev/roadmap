@@ -40,30 +40,6 @@ src\mame\includes\bking.h
 src\mame\video\bking.cpp  **(coauthor) with Mike Balfour, Zsolt Vasvari**
 
 
-Eisuke Watanabe
-===============
-
-src\mame\drivers\qdrmfgp.cpp 
-
-src\mame\includes\qdrmfgp.h
-
-src\mame\video\qdrmfgp.cpp 
-
-src\mame\drivers\galastrm.cpp 
-
-src\mame\includes\galastrm.h 
-
-src\mame\video\galastrm.cpp 
-
-src\mame\drivers\tecmo16.cpp 
-
-src\mame\includes\tecmo16.h 
-
-src\mame\video\tecmo16.cpp  **(coauthor) with Nicola Salmoria**
-
-src\mame\drivers\dai3wksi.cpp 
-
-
 Tomas Karlsson
 ==============
 
