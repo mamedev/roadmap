@@ -49,18 +49,6 @@ src\mame\includes\toypop.h
 src\mame\video\toypop.cpp 
 
 
-
-Enrique Sanchez
-===============
-
-src\mame\drivers\yiear.cpp 
-
-src\mame\includes\yiear.h 
-
-src\mame\video\yiear.cpp 
-
-
-
 Ralf Schaefer
 =============
 src\mame\drivers\supercon.cpp **(coauthor) with Robbbert**
