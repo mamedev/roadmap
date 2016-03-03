@@ -49,7 +49,7 @@ src\mame\includes\toypop.h
 src\mame\video\toypop.cpp 
 
 
-Ralf Schaefer
+Ralf Schaefer (demoted to skeletons)
 =============
 src\mame\drivers\supercon.cpp **(coauthor) with Robbbert**
 
