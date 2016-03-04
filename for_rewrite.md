@@ -29,7 +29,7 @@ src\mame\includes\sprcros2.h
 
 src\mame\video\sprcros2.cpp 
 
-Tomas Karlsson
+Tomas Karlsson  (demoted to skeletons)
 ==============
 
 src\mame\drivers\svi318.cpp 
