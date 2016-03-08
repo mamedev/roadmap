@@ -23,11 +23,11 @@ src\mame\includes\popper.h
 
 src\mame\video\popper.cpp  **(coauthor)**
 
-src\mame\drivers\sprcros2.cpp 
+src\mame\drivers\sprcros2.cpp **done**
 
-src\mame\includes\sprcros2.h 
+src\mame\includes\sprcros2.h **done**
 
-src\mame\video\sprcros2.cpp 
+src\mame\video\sprcros2.cpp **done**
 
 Tomas Karlsson  (demoted to skeletons)
 ==============
@@ -42,7 +42,7 @@ src\mame\machine\svi318.cpp  **(coauthor) with Sean Young**
 Edgardo E. Contini Salvan (demoted to skeletons)
 =========================
 
-src\mame\drivers\toypop.cpp 
+src\mame\drivers\toypop.cpp **in progress**
 
 src\mame\includes\toypop.h 
 
