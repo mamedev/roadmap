@@ -9,11 +9,11 @@ src\mame\includes\flower.h
 
 src\mame\video\flower.cpp **(coauthor)**
 
-src\mame\drivers\carjmbre.cpp 
+src\mame\drivers\carjmbre.cpp **in progress**
 
-src\mame\includes\carjmbre.h 
+src\mame\includes\carjmbre.h **in progress**
 
-src\mame\video\carjmbre.cpp **(coauthor)**
+src\mame\video\carjmbre.cpp **(coauthor)** **in progress**
 
 src\mame\drivers\marinedt.cpp 
 
