@@ -9,12 +9,6 @@ src\mame\includes\flower.h
 
 src\mame\video\flower.cpp **(coauthor)**
 
-src\mame\drivers\carjmbre.cpp **in progress**
-
-src\mame\includes\carjmbre.h **in progress**
-
-src\mame\video\carjmbre.cpp **(coauthor)** **in progress**
-
 src\mame\drivers\marinedt.cpp 
 
 src\mame\drivers\popper.cpp 
@@ -22,12 +16,6 @@ src\mame\drivers\popper.cpp
 src\mame\includes\popper.h 
 
 src\mame\video\popper.cpp **(coauthor)**
-
-src\mame\drivers\sprcros2.cpp **done**
-
-src\mame\includes\sprcros2.h **done**
-
-src\mame\video\sprcros2.cpp **done**
 
 Tomas Karlsson  (demoted to skeletons)
 ==============
@@ -51,10 +39,8 @@ src\mame\video\toypop.cpp **in progress**
 
 Ralf Schaefer (demoted to skeletons)
 =============
-src\mame\drivers\supercon.cpp **(coauthor) with Robbbert** **in progress**
-
 src\mame\drivers\glasgow.cpp **(coauthor) with Dirk Verwiebe, Robbbert, Cowering**
 
-src\mame\includes\mboard.h 
+src\mame\includes\mboard.h - *need redesign from scratch in MAME input core*
 
-src\mame\machine\mboard.cpp **(coauthor) with Cowering**
+src\mame\machine\mboard.cpp **(coauthor) with Cowering** - *need redesign from scratch in MAME input core*
