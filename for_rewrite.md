@@ -17,15 +17,6 @@ src\mame\includes\popper.h
 
 src\mame\video\popper.cpp **(coauthor)**
 
-Tomas Karlsson  (demoted to skeletons)
-==============
-
-src\mame\drivers\svi318.cpp **in progress**
-
-src\mame\includes\svi318.h **in progress**
-
-src\mame\machine\svi318.cpp **(coauthor) with Sean Young** **in progress**
-
 
 Edgardo E. Contini Salvan (demoted to skeletons)
 =========================
