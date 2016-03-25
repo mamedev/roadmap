@@ -18,16 +18,6 @@ src\mame\includes\popper.h
 src\mame\video\popper.cpp **(coauthor)**
 
 
-Edgardo E. Contini Salvan (demoted to skeletons)
-=========================
-
-src\mame\drivers\toypop.cpp **in progress**
-
-src\mame\includes\toypop.h **in progress**
-
-src\mame\video\toypop.cpp **in progress**
-
-
 Ralf Schaefer (demoted to skeletons)
 =============
 src\mame\drivers\glasgow.cpp **(coauthor) with Dirk Verwiebe, Robbbert, Cowering**
