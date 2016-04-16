@@ -85,7 +85,7 @@ GUI/Video/OSD in total
 ======================
 As told, already started adding BGFX library, that also contain NanoVG library that makes nice GUI creation easier. Also there is NanoSVG providing easy usage of SVG which can help with loading custom things for GUI, including parts of layout. Thing is VG is of Vector Graphics so it means that all is written in one vector space and scaled on screen so there are no issues drawing it on different resolutions. This part will require some time that is for sure, but first we need to upgrade our video output and make this part possible to develop. Note that BGFX as lib can use SDL2/OpenGL, DX9 and DX11, it supports various platforms ( more info at https://github.com/bkaradzic/bgfx )
 
-* <stike>SDL2 video should be 1st class citizen for MAME so we actually need to break OSD better and make video modular as well.</strike>
+* <strike>SDL2 video should be 1st class citizen for MAME so we actually need to break OSD better and make video modular as well.</strike>
 * <strike>Need to add more modern ways of communicating with hardware like XAudio2. </strike>
 * We would need to add audio support for inputs and for 5.1 or more outputs.
 * <strike>UI need to be multilanguage</strike> and externaly defined layouts so skins can be provided by 3rd party  adding a way to access usage instructions form mame itself
