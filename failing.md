@@ -62,8 +62,6 @@ eolithsp.cpp
 
 exidy.cpp
 
-f-32 .cpp
-
 galaga.cpp
 
 galastrm.cpp
@@ -271,8 +269,6 @@ vegaeo.cpp
 vicdual.cpp
 
 vsnes.cpp
-
-warpwarp.cpp
 
 wpc_flip1.cpp
 
