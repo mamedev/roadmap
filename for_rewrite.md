@@ -1,13 +1,13 @@
 insideoutboy (demoted to skeletons)
 ============
 
-src\mame\audio\flower.cpp 
+src\mame\audio\flower.cpp **in progress by Kale**
 
-src\mame\drivers\flower.cpp 
+src\mame\drivers\flower.cpp **in progress by Kale**
 
-src\mame\includes\flower.h 
+src\mame\includes\flower.h **in progress by Kale**
 
-src\mame\video\flower.cpp **(coauthor)**
+src\mame\video\flower.cpp **(coauthor)** **in progress by Kale**
 
 src\mame\drivers\marinedt.cpp 
 
@@ -20,7 +20,7 @@ src\mame\video\popper.cpp **(coauthor)**
 
 Ralf Schaefer (demoted to skeletons)
 =============
-src\mame\drivers\glasgow.cpp **(coauthor) with Dirk Verwiebe, Robbbert, Cowering**
+src\mame\drivers\glasgow.cpp **(coauthor) with Dirk Verwiebe, Robbbert, Cowering** **partially restored by Robbbert**
 
 src\mame\includes\mboard.h - *need redesign from scratch in MAME input core*
 
