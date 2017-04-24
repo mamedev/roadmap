@@ -11,12 +11,6 @@ src\mame\video\flower.cpp **(coauthor)**
 
 src\mame\drivers\marinedt.cpp 
 
-src\mame\drivers\popper.cpp **in progress by Duke**
-
-src\mame\includes\popper.h 
-
-src\mame\video\popper.cpp **(coauthor)**
-
 
 Ralf Schaefer (demoted to skeletons)
 =============
