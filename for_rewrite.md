@@ -15,7 +15,3 @@ src\mame\drivers\marinedt.cpp
 Ralf Schaefer (demoted to skeletons)
 =============
 src\mame\drivers\glasgow.cpp **(coauthor) with Dirk Verwiebe, Robbbert, Cowering**, **partially restored by Robbbert**
-
-src\mame\includes\mboard.h - *need redesign from scratch in MAME input core*
-
-src\mame\machine\mboard.cpp **(coauthor) with Cowering** - *need redesign from scratch in MAME input core*
