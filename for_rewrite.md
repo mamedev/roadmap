@@ -10,8 +10,3 @@ src\mame\includes\flower.h
 src\mame\video\flower.cpp **(coauthor)**
 
 src\mame\drivers\marinedt.cpp **in progress by Kale**
-
-
-Ralf Schaefer (demoted to skeletons)
-=============
-src\mame\drivers\glasgow.cpp **(coauthor) with Dirk Verwiebe, Robbbert, Cowering**, **partially restored by Robbbert**
