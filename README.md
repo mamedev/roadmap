@@ -24,7 +24,7 @@ New developers
 ==============
 We should encourage new developers to join. Think GITHUB should help us, since that way they will see they are recognized, they will appear as contributors in our tree with links to their account that feels better for them. I am aware young developers are maybe not much interested in old arcades and computers, but there are still some people out there willing to work. I planned of adding Join Us page on new site, with knowledge requirements that are of interest to us, including gui programming, lua scripting, automated testing, QT and more and not just C/C++.
 
-Need to define coding style acceptable for contributing code (something like : https://www.kernel.org/doc/Documentation/CodingStyle )
+Need to define coding style acceptable for contributing code (something like : https://www.kernel.org/doc/Documentation/process/coding-style.rst )
 
 
 GUI/Video/OSD in total
